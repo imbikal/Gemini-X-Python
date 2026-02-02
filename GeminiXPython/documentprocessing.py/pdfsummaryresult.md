@@ -1,0 +1,9 @@
+This document is a project report for "Poshak Sewa," an online clothing rental web application developed for Tribhuvan University, Faculty of Humanities and Social Science, Department of Computer Application, Indreni College.
+
+The project addresses the environmental impact of fast fashion and the high cost of owning new clothes by offering a sustainable and cost-effective alternative. The primary objective is to create a user-friendly, efficient, and sustainable online platform for renting stylish clothes.
+
+Key features encompass an extensive catalog (men and women), user-centric design, mobile responsiveness, and a recommendation system. An administrative panel enables efficient inventory and order management.
+
+Developed using the Agile methodology, the application utilizes React.js for the frontend, PHP for the backend, and MySQL for database management, supported by HTML, CSS (TailwindCSS), and VS Code. The report covers detailed functional and non-functional requirements, feasibility analysis, system analysis (including ER and DFD diagrams, architectural design), and outlines implementation modules like user registration, login, order processing, and admin controls. Comprehensive unit and system testing were conducted to ensure reliability and functionality.
+
+The project successfully delivers an accessible, efficient online rental service, fulfilling its objective to reduce textile waste and offer value to both customers and owners. Future recommendations include automated report generation, enhanced browser compatibility, and the development of a dedicated mobile application.
